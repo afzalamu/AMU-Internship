@@ -1,0 +1,114 @@
+Circuit: * C:\Users\afzal\Documents\@AFZAL\professional works\banglore internship\latest\two STAGE OPAMP new - Copy.asc
+
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Instance "m7": Length shorter than recommended for a level 1 MOSFET.
+Instance "m7": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- MOSFET Transistors ---
+Name:          m7
+Model:        nmos
+Id:          5.77e-05
+Vgs:         7.40e-01
+Vds:         4.46e-01
+Vbs:         0.00e+00
+Vth:         0.00e+00
+Vdsat:       7.40e-01
+Gm:          1.12e-04
+Gds:         7.34e-05
+Gmb:         0.00e+00
+Cbd:         0.00e+00
+Cbs:         0.00e+00
+Cgsov:       0.00e+00
+Cgdov:       0.00e+00
+Cgbov:       0.00e+00
+Cgs:         0.00e+00
+Cgd:         0.00e+00
+Cgb:         0.00e+00
+
+                        --- BSIM3 MOSFETS ---
+Name:        m5          m4          m2          m6          m3
+Model:       pch         pch         pch         nch         nch
+Id:       -5.28e-04   -2.88e-05   -2.88e-05    5.28e-04    2.88e-05
+Vgs:      -7.90e-01   -7.90e-01   -7.90e-01    7.40e-01    7.42e-01
+Vds:      -9.04e-01   -7.90e-01   -7.90e-01    8.96e-01    5.63e-01
+Vbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00   -4.46e-01
+Vth:      -4.49e-01   -4.48e-01   -4.48e-01    4.59e-01    5.82e-01
+Vdsat:    -2.83e-01   -2.76e-01   -2.76e-01    2.05e-01    1.40e-01
+Gm:        2.77e-03    1.52e-04    1.52e-04    3.59e-03    3.40e-04
+Gds:       6.01e-05    3.57e-06    3.57e-06    4.81e-05    4.78e-06
+Gmb        9.00e-04    4.79e-05    4.79e-05    9.35e-04    7.72e-05
+Cbd:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgsov:     2.96e-14    1.66e-15    1.66e-15    9.72e-15    1.41e-15
+Cgdov:     2.96e-14    1.66e-15    1.66e-15    9.72e-15    1.41e-15
+Cgbov:     2.98e-19    2.98e-19    2.98e-19    3.28e-19    3.28e-19
+dQgdVgb:   1.54e-13    8.65e-15    8.65e-15    6.58e-14    9.42e-15
+dQgdVdb:  -2.96e-14   -1.66e-15   -1.66e-15   -9.47e-15   -1.38e-15
+dQgdVsb:  -1.20e-13   -6.73e-15   -6.73e-15   -5.33e-14   -7.63e-15
+dQddVgb:  -2.97e-14   -1.66e-15   -1.66e-15   -9.77e-15   -1.43e-15
+dQddVdb:   2.96e-14    1.66e-15    1.66e-15    9.75e-15    1.42e-15
+dQddVsb:   7.54e-17    5.20e-18    5.20e-18    3.47e-17    1.19e-17
+dQbdVgb:  -1.94e-14   -1.12e-15   -1.12e-15   -9.90e-15   -1.33e-15
+dQbdVdb:  -1.87e-17   -1.86e-18   -1.86e-18    1.91e-17    1.63e-19
+dQbdVsb:  -9.39e-15   -4.80e-16   -4.80e-16   -4.12e-15   -3.77e-16
+
+Name:        m1
+Model:       nch
+Id:        2.88e-05
+Vgs:       7.42e-01
+Vds:       5.63e-01
+Vbs:      -4.46e-01
+Vth:       5.82e-01
+Vdsat:     1.40e-01
+Gm:        3.40e-04
+Gds:       4.78e-06
+Gmb        7.72e-05
+Cbd:       0.00e+00
+Cbs:       0.00e+00
+Cgsov:     1.41e-15
+Cgdov:     1.41e-15
+Cgbov:     3.28e-19
+dQgdVgb:   9.42e-15
+dQgdVdb:  -1.38e-15
+dQgdVsb:  -7.63e-15
+dQddVgb:  -1.43e-15
+dQddVdb:   1.42e-15
+dQddVsb:   1.19e-17
+dQbdVgb:  -1.33e-15
+dQbdVdb:   1.63e-19
+dQbdVsb:  -3.77e-16
+
+
+
+Date: Fri Jul 07 19:31:22 2023
+Total elapsed time: 0.175 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 18
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 15
+fillins = 0
+solver = Normal
+Matrix Compiler1:      43 opcodes
+Matrix Compiler2: 1.21 KB object code size
