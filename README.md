@@ -1,33 +1,33 @@
-# Internship Objectives
+# Internship Plan
 
 This internship focuses on designing and simulating various analog circuits using LTspice and ADT (Analog Designer Toolbox) with a specific set of specifications. The design methodology used for all the circuits is the Gm over Id methodology.
 
-## Project 1: Design and Simulation of Common Source Amplifier (NMOS + PMOS Current Source)
+## Task 1: Design and Simulation of Common Source Amplifier (NMOS + PMOS Current Source)
 
 **Objective:** 
 Design and simulate a Common Source Amplifier using an NMOS transistor with a PMOS current source. The amplifier should have a gain of 10 at 100MHz and a Gain-Bandwidth Product (GBW) of 1GHz.
 
-## Project 2: Design and Simulation of Common Drain Amplifier
+## Task 2: Design and Simulation of Common Drain Amplifier
 
 **Objective:** 
 Design and simulate a Common Drain Amplifier with an output impedance of 50 ohms.
 
-## Project 3: Design of Simple Current Mirror
+## Task 3: Design of Simple Current Mirror
 
 **Objective:** 
 Design a Simple Current Mirror circuit to generate a reference current (Iref). Then, use the reference current to copy the current in another transistor.
 
-## Project 4: CS Amplifier for Design of Differential Pair
+## Task 4: CS Amplifier for Design of Differential Pair
 
 **Objective:** 
 Design and simulate a Common Source Amplifier to be used as a building block for a Differential Pair circuit. The amplifier should have a gain of 10 at 100MHz and a GBW of 1GHz.
 
-## Project 5: Design and Simulation of Differential Pair
+## Task 5: Design and Simulation of Differential Pair
 
 **Objective:** 
 Design and simulate a Differential Pair circuit with a gain of 10 at 100MHz and a GBW of 1GHz.
 
-## Project 6: Design and Simulation of Single Stage OPAMP
+## Task 6: Design and Simulation of Single Stage OPAMP
 
 **Objective:** 
 Design and simulate a Single Stage Operational Amplifier (OPAMP) with a gain of 10 at 100MHz and a GBW of 1GHz.
