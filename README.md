@@ -1,6 +1,6 @@
 # Internship Objectives
 
-## Project 1: Design and Simulation of CS Amplifier (NMOS + Current Source)
+## Project 1: Design and Simulation of Common Source Amplifier (NMOS + Current Source)
 
 This project aims to design and simulate a Common Source (CS) Amplifier using an NMOS transistor and a current source. The objective is to understand the characteristics and performance of the CS amplifier in terms of voltage gain, input/output impedance, and frequency response. 
 
