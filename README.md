@@ -39,7 +39,7 @@ Design and simulate a Differential Pair circuit with a gain of 10 at 100MHz and 
 **Objective:** 
 Design and simulate a Single Stage Operational Amplifier (OPAMP) with a gain of 10 at 100MHz and a GBW of 1GHz.
 
-### Final Task: Design and Simulation of Two Stage OPAMP
+### PROJECT: Design and Simulation of Two Stage OPAMP
 
 **Objective:** 
 Design and simulate a Two Stage Operational Amplifier (OPAMP) with a load capacitance of 20fF and a gain greater than 1000 (60 dB).
