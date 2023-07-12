@@ -31,4 +31,4 @@ These resources provide comprehensive coverage of op-amp theory and design techn
 
 Feel free to explore the files in this directory to examine the circuit schematics, simulation results, and any accompanying documentation. The op-amp designs presented here are not only crucial in analog design but also serve as a foundation for more complex circuitry.
 
-*Note: The content in this repository is the intellectual property of the Analog Design Internship program. Unauthorized distribution, modification, or use of this content is strictly prohibited.*
+
