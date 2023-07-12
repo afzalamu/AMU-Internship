@@ -10,8 +10,7 @@ Welcome to the Week 1 Overview of the Analog Design Internship! In this week, we
 - Optimize the W/L ratio for improved performance based on feedback.
 
 ## Repository Structure
-
-The repository for this internship contains a directory for each week. For Week 1, the directory structure is as follows:
+For Week 1, the directory structure is as follows:
 
 ```
 - Week 1
