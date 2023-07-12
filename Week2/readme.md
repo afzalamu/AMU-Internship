@@ -1,6 +1,6 @@
 # Week 2 Overview: Analog Design Internship
 
-Welcome to Week 2 of the Analog Design Internship! In this week, we will continue our exploration of circuit design with a focus on optimizing the W/L ratio using the Gm over Id method. We will design and analyze several important circuits, including the Common Source Amplifier, Common Drain Amplifier, Simple Current Mirror, and Differential Pair. Additionally, we will apply the constraint of using unit devices for circuit design.
+Welcome to Week 2 of the Analog Design Internship! In this week, we will continue our exploration of circuit design with a focus on optimizing the W/L ratio using the Gm over Id method. We will design and analyze several important circuits, including the Common Source Amplifier, Common Drain Amplifier, Simple Current Mirror, and Differential Pair. 
 
 ## Key Learning Objectives
 
