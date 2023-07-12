@@ -3,6 +3,7 @@
 This 6 Week summer internship, organized by the Engineering Design and Implementation Club (Edic) in collaboration with the Department of Electronics Engineering at Aligarh Muslim University, offers an opportunity to learn and explore the field of analog circuit design. Under the mentorship of esteemed professionals, Dr. GS Javed (Technical Team Head @Intel), Professor Syed Atiqur Rahman, and Professor Naushad Alam, interns will gain hands-on experience in designing and simulating various analog circuits.
 
 ## Task Descriptions
+### DESIGN METHODOLOGY : Gm over Id Method
 
 ### Task 0: Introduction to LTspice and Circuit Simulation Techniques
 
