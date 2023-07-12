@@ -1,0 +1,86 @@
+Circuit: * C:\Users\afzal\Documents\@AFZAL\professional works\banglore internship\Week3\second stage opamp\second stage opamp.asc
+
+WARNING: Less than two connections to node VB.  This node is used by VB.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- BSIM3 MOSFETS ---
+Name:        m8          m7          m4          m2          m9
+Model:      pmos        pmos        pmos        pmos        nmos
+Id:       -2.22e-04   -7.72e-05   -1.82e-04   -1.82e-04    2.22e-04
+Vgs:      -6.85e-01   -1.17e+00   -6.85e-01   -6.85e-01    6.86e-01
+Vds:      -9.16e-01   -1.17e+00   -6.85e-01   -6.85e-01    8.84e-01
+Vbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Vth:      -4.73e-01   -4.70e-01   -4.73e-01   -4.73e-01    4.66e-01
+Vdsat:    -1.91e-01   -5.31e-01   -1.88e-01   -1.88e-01    1.67e-01
+Gm:        1.93e-03    1.90e-04    1.59e-03    1.59e-03    2.20e-03
+Gds:       1.92e-05    5.53e-06    1.65e-05    1.65e-05    2.18e-05
+Gmb        6.18e-04    6.23e-05    5.05e-04    5.05e-04    5.75e-04
+Cbd:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgsov:     3.34e-14    1.42e-15    2.84e-14    2.84e-14    1.17e-14
+Cgdov:     3.34e-14    1.42e-15    2.84e-14    2.84e-14    1.17e-14
+Cgbov:     3.11e-19    3.11e-19    1.24e-18    1.24e-18    3.33e-19
+dQgdVgb:   1.70e-13    7.26e-15    1.45e-13    1.45e-13    5.89e-14
+dQgdVdb:  -3.34e-14   -1.42e-15   -2.85e-14   -2.85e-14   -1.17e-14
+dQgdVsb:  -1.33e-13   -5.77e-15   -1.13e-13   -1.13e-13   -4.48e-14
+dQddVgb:  -7.43e-14   -3.17e-15   -6.32e-14   -6.32e-14   -2.58e-14
+dQddVdb:   3.34e-14    1.42e-15    2.85e-14    2.85e-14    1.17e-14
+dQddVsb:   5.41e-14    2.30e-15    4.60e-14    4.60e-14    1.83e-14
+dQbdVgb:  -2.13e-14   -9.31e-16   -1.84e-14   -1.84e-14   -7.32e-15
+dQbdVdb:  -1.15e-17   -1.51e-18   -2.59e-17   -2.59e-17   -4.44e-18
+dQbdVsb:  -9.03e-15   -2.53e-16   -7.27e-15   -7.27e-15   -3.47e-15
+
+Name:        m5          m6          m3          m1
+Model:      nmos        nmos        nmos        nmos
+Id:        3.65e-04    7.72e-05    1.82e-04    1.82e-04
+Vgs:       6.33e-01    6.33e-01    7.15e-01    7.15e-01
+Vds:       2.85e-01    6.33e-01    8.30e-01    8.30e-01
+Vbs:       0.00e+00    0.00e+00   -2.85e-01   -2.85e-01
+Vth:       4.66e-01    4.66e-01    5.44e-01    5.44e-01
+Vdsat:     1.28e-01    1.29e-01    1.40e-01    1.40e-01
+Gm:        4.94e-03    1.04e-03    2.31e-03    2.31e-03
+Gds:       8.74e-05    1.01e-05    2.17e-05    2.17e-05
+Gmb        1.30e-03    2.73e-04    5.47e-04    5.47e-04
+Cbd:       0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgsov:     3.85e-14    7.70e-15    1.54e-14    1.54e-14
+Cgdov:     3.85e-14    7.70e-15    1.54e-14    1.54e-14
+Cgbov:     1.66e-18    3.33e-19    6.66e-19    6.66e-19
+dQgdVgb:   1.94e-13    3.88e-14    7.71e-14    7.71e-14
+dQgdVdb:  -3.89e-14   -7.70e-15   -1.54e-14   -1.54e-14
+dQgdVsb:  -1.47e-13   -2.93e-14   -5.86e-14   -5.86e-14
+dQddVgb:  -8.52e-14   -1.70e-14   -3.40e-14   -3.40e-14
+dQddVdb:   3.89e-14    7.71e-15    1.54e-14    1.54e-14
+dQddVsb:   6.00e-14    1.20e-14    2.33e-14    2.33e-14
+dQbdVgb:  -2.38e-14   -4.85e-15   -9.18e-15   -9.18e-15
+dQbdVdb:  -4.48e-16   -6.12e-18   -4.79e-18   -4.79e-18
+dQbdVsb:  -1.18e-14   -2.32e-15   -3.40e-15   -3.40e-15
+
+
+
+Date: Tue Jul 04 21:28:23 2023
+Total elapsed time: 0.161 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 7
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 17
+fillins = 0
+solver = Normal
+Matrix Compiler1:      41 opcodes
+Matrix Compiler2: 1.25 KB object code size
