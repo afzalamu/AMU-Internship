@@ -1,0 +1,81 @@
+Circuit: * C:\Users\afzal\Documents\FINAL INTERNSHIP\Differential Layer\differential amplifier.asc
+
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Semiconductor Device Operating Points:
+                        --- BSIM3 MOSFETS ---
+Name:        m4          m2          m3          m1
+Model:       pch         pch         nch         nch
+Id:       -1.67e-04   -1.67e-04    1.67e-04    1.67e-04
+Vgs:      -8.74e-01   -8.74e-01    7.42e-01    7.42e-01
+Vds:      -7.33e-01   -7.33e-01    6.18e-01    6.18e-01
+Vbs:       0.00e+00    0.00e+00   -4.49e-01   -4.49e-01
+Vth:      -4.49e-01   -4.49e-01    5.83e-01    5.83e-01
+Vdsat:    -3.43e-01   -3.43e-01    1.40e-01    1.40e-01
+Gm:        6.87e-04    6.87e-04    1.98e-03    1.98e-03
+Gds:       2.06e-05    2.06e-05    2.64e-05    2.64e-05
+Gmb        2.25e-04    2.25e-04    4.52e-04    4.52e-04
+Cbd:       0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cbs:       0.00e+00    0.00e+00    0.00e+00    0.00e+00
+Cgsov:     6.50e-15    6.50e-15    8.31e-15    8.31e-15
+Cgdov:     6.50e-15    6.50e-15    8.31e-15    8.31e-15
+Cgbov:     2.98e-19    2.98e-19    3.28e-19    3.28e-19
+dQgdVgb:   3.39e-14    3.39e-14    5.53e-14    5.53e-14
+dQgdVdb:  -6.51e-15   -6.51e-15   -8.09e-15   -8.09e-15
+dQgdVsb:  -2.65e-14   -2.65e-14   -4.48e-14   -4.48e-14
+dQddVgb:  -6.56e-15   -6.56e-15   -8.38e-15   -8.38e-15
+dQddVdb:   6.55e-15    6.55e-15    8.34e-15    8.34e-15
+dQddVsb:   2.28e-17    2.28e-17    5.87e-17    5.87e-17
+dQbdVgb:  -4.30e-15   -4.30e-15   -7.79e-15   -7.79e-15
+dQbdVdb:  -1.51e-17   -1.51e-17    4.71e-18    4.71e-18
+dQbdVsb:  -1.97e-15   -1.97e-15   -2.28e-15   -2.28e-15
+
+
+
+Date: Sun Jul 09 19:49:10 2023
+Total elapsed time: 0.075 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 386
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 13
+fillins = 0
+solver = Normal
+Matrix Compiler1:      30 opcodes
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
