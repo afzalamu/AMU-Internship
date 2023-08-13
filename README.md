@@ -10,6 +10,7 @@ This 6 Week summer internship, organized by the Engineering Design and Implement
 Learn LTspice software and circuit simulation techniques through lectures by Professor Baker available at cmosedu.com. Gain proficiency in LTspice for designing and simulating analog circuits.
 
 ### Task 1: Design and Simulation of Common Source Amplifier (NMOS + PMOS Current Source)
+![CS AMP](https://github.com/afzalamu/Analog-Design-Internship/blob/main/IMAGES/CSAmp.jpg)
 
 **Objective:** 
 Design and simulate a Common Source Amplifier using an NMOS transistor with a PMOS current source. The amplifier should have a gain of 10 at 100MHz and a Gain-Bandwidth Product (GBW) of 1GHz.
