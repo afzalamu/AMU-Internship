@@ -31,7 +31,7 @@ Design a Simple Current Mirror circuit to generate a reference current (Iref). T
 Design and simulate a Common Source Amplifier to be used as a building block for a Differential Pair circuit. The amplifier should have a gain of 10 at 100MHz and a GBW of 1GHz.
 
 ### Task 5: Design and Simulation of Differential Pair
-
+![ Differential Pair ](https://github.com/afzalamu/Analog-Design-Internship/blob/main/IMAGES/DiffPair.jpg)
 **Objective:** 
 Design and simulate a Differential Pair circuit with a gain of 10 at 100MHz and a GBW of 1GHz.
 
