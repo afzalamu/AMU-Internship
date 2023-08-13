@@ -21,7 +21,7 @@ Design and simulate a Common Source Amplifier using an NMOS transistor with a PM
 Design and simulate a Common Drain Amplifier with an output impedance of 50 ohms.
 
 ### Task 3: Design of Simple Current Mirror
-
+![CS AMP](https://github.com/afzalamu/Analog-Design-Internship/blob/main/IMAGES/Current%20Mirror.jpg)
 **Objective:** 
 Design a Simple Current Mirror circuit to generate a reference current (Iref). Then, use the reference current to copy the current in another transistor.
 
