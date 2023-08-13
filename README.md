@@ -36,7 +36,7 @@ Design and simulate a Common Source Amplifier to be used as a building block for
 Design and simulate a Differential Pair circuit with a gain of 10 at 100MHz and a GBW of 1GHz.
 
 ### Task 6: Design and Simulation of Single Stage OPAMP
-
+![Single Stage Opamp](https://github.com/afzalamu/Analog-Design-Internship/blob/main/IMAGES/SingleStageOPAMP.jpg)
 **Objective:** 
 Design and simulate a Single Stage Operational Amplifier (OPAMP) with a gain of 10 at 100MHz and a GBW of 1GHz.
 
